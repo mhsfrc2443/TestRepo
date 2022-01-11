@@ -1,1 +1,3 @@
 Test file.  If you see this, you pulled successfully.
+
+Added a line which should only be merged through pull request
